@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_PersonalDownloadManager_FILE /home/tehsaad/Desktop/Personal Downlaod Manager/build/PersonalDownloadManager)
+set(__QT_DEPLOY_TARGET_PersonalDownloadManager_TYPE EXECUTABLE)

@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/tehsaad/Desktop/Personal Downlaod Manager/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/build/PersonalDownloadManager_autogen/include\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/core\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/net\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/ui\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/PersonalDownloadManager.dir/PersonalDownloadManager_autogen/mocs_compilation.cpp.o -c \"/home/tehsaad/Desktop/Personal Downlaod Manager/build/PersonalDownloadManager_autogen/mocs_compilation.cpp\"",
+  "file": "/home/tehsaad/Desktop/Personal Downlaod Manager/build/PersonalDownloadManager_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/PersonalDownloadManager.dir/PersonalDownloadManager_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/tehsaad/Desktop/Personal Downlaod Manager/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/build/PersonalDownloadManager_autogen/include\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/core\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/net\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/ui\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/PersonalDownloadManager.dir/src/core/DownloadQueue.cpp.o -c \"/home/tehsaad/Desktop/Personal Downlaod Manager/src/core/DownloadQueue.cpp\"",
+  "file": "/home/tehsaad/Desktop/Personal Downlaod Manager/src/core/DownloadQueue.cpp",
+  "output": "CMakeFiles/PersonalDownloadManager.dir/src/core/DownloadQueue.cpp.o"
+},
+{
+  "directory": "/home/tehsaad/Desktop/Personal Downlaod Manager/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/build/PersonalDownloadManager_autogen/include\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/core\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/net\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/ui\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/PersonalDownloadManager.dir/src/core/DownloadTask.cpp.o -c \"/home/tehsaad/Desktop/Personal Downlaod Manager/src/core/DownloadTask.cpp\"",
+  "file": "/home/tehsaad/Desktop/Personal Downlaod Manager/src/core/DownloadTask.cpp",
+  "output": "CMakeFiles/PersonalDownloadManager.dir/src/core/DownloadTask.cpp.o"
+},
+{
+  "directory": "/home/tehsaad/Desktop/Personal Downlaod Manager/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/build/PersonalDownloadManager_autogen/include\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/core\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/net\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/ui\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/PersonalDownloadManager.dir/src/core/FileNamer.cpp.o -c \"/home/tehsaad/Desktop/Personal Downlaod Manager/src/core/FileNamer.cpp\"",
+  "file": "/home/tehsaad/Desktop/Personal Downlaod Manager/src/core/FileNamer.cpp",
+  "output": "CMakeFiles/PersonalDownloadManager.dir/src/core/FileNamer.cpp.o"
+},
+{
+  "directory": "/home/tehsaad/Desktop/Personal Downlaod Manager/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/build/PersonalDownloadManager_autogen/include\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/core\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/net\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/ui\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/PersonalDownloadManager.dir/src/main.cpp.o -c \"/home/tehsaad/Desktop/Personal Downlaod Manager/src/main.cpp\"",
+  "file": "/home/tehsaad/Desktop/Personal Downlaod Manager/src/main.cpp",
+  "output": "CMakeFiles/PersonalDownloadManager.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/tehsaad/Desktop/Personal Downlaod Manager/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/build/PersonalDownloadManager_autogen/include\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/core\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/net\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/ui\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/PersonalDownloadManager.dir/src/net/HttpDownloader.cpp.o -c \"/home/tehsaad/Desktop/Personal Downlaod Manager/src/net/HttpDownloader.cpp\"",
+  "file": "/home/tehsaad/Desktop/Personal Downlaod Manager/src/net/HttpDownloader.cpp",
+  "output": "CMakeFiles/PersonalDownloadManager.dir/src/net/HttpDownloader.cpp.o"
+},
+{
+  "directory": "/home/tehsaad/Desktop/Personal Downlaod Manager/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/build/PersonalDownloadManager_autogen/include\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/core\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/net\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/ui\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/PersonalDownloadManager.dir/src/ui/DownloadWorker.cpp.o -c \"/home/tehsaad/Desktop/Personal Downlaod Manager/src/ui/DownloadWorker.cpp\"",
+  "file": "/home/tehsaad/Desktop/Personal Downlaod Manager/src/ui/DownloadWorker.cpp",
+  "output": "CMakeFiles/PersonalDownloadManager.dir/src/ui/DownloadWorker.cpp.o"
+},
+{
+  "directory": "/home/tehsaad/Desktop/Personal Downlaod Manager/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/build/PersonalDownloadManager_autogen/include\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/core\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/net\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/ui\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/PersonalDownloadManager.dir/src/ui/MainWindow.cpp.o -c \"/home/tehsaad/Desktop/Personal Downlaod Manager/src/ui/MainWindow.cpp\"",
+  "file": "/home/tehsaad/Desktop/Personal Downlaod Manager/src/ui/MainWindow.cpp",
+  "output": "CMakeFiles/PersonalDownloadManager.dir/src/ui/MainWindow.cpp.o"
+},
+{
+  "directory": "/home/tehsaad/Desktop/Personal Downlaod Manager/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/build/PersonalDownloadManager_autogen/include\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/core\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/net\" -I\"/home/tehsaad/Desktop/Personal Downlaod Manager/src/ui\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/PersonalDownloadManager.dir/src/ui/TaskTableModel.cpp.o -c \"/home/tehsaad/Desktop/Personal Downlaod Manager/src/ui/TaskTableModel.cpp\"",
+  "file": "/home/tehsaad/Desktop/Personal Downlaod Manager/src/ui/TaskTableModel.cpp",
+  "output": "CMakeFiles/PersonalDownloadManager.dir/src/ui/TaskTableModel.cpp.o"
+}
+]

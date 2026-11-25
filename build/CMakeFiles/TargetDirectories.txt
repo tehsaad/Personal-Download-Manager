@@ -1,0 +1,9 @@
+/home/tehsaad/Desktop/Personal Downlaod Manager/build/CMakeFiles/PersonalDownloadManager.dir
+/home/tehsaad/Desktop/Personal Downlaod Manager/build/CMakeFiles/edit_cache.dir
+/home/tehsaad/Desktop/Personal Downlaod Manager/build/CMakeFiles/rebuild_cache.dir
+/home/tehsaad/Desktop/Personal Downlaod Manager/build/CMakeFiles/list_install_components.dir
+/home/tehsaad/Desktop/Personal Downlaod Manager/build/CMakeFiles/install.dir
+/home/tehsaad/Desktop/Personal Downlaod Manager/build/CMakeFiles/install/local.dir
+/home/tehsaad/Desktop/Personal Downlaod Manager/build/CMakeFiles/install/strip.dir
+/home/tehsaad/Desktop/Personal Downlaod Manager/build/CMakeFiles/PersonalDownloadManager_autogen_timestamp_deps.dir
+/home/tehsaad/Desktop/Personal Downlaod Manager/build/CMakeFiles/PersonalDownloadManager_autogen.dir
